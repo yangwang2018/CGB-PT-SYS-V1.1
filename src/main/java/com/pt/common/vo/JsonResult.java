@@ -3,7 +3,7 @@ package com.pt.common.vo;
 public class JsonResult {
 	
 	/**
-	 * 状态码,0表示错误，1表示正确
+	 * 状态码,0表示错误，1表示正确,2表示服务器内部错误
 	 */
 	private int state;
 	
